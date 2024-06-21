@@ -12,10 +12,10 @@ export default function Home() {
       text: "I",
     },
     {
-      text: "hate",
+      text: "miss",
     },
     {
-      text: "you.",
+      text: "you po.",
     },
     { text: "❤️" },
   ];
