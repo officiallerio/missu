@@ -3,10 +3,10 @@ import { TypewriterEffect } from "@/components/ui/typewriter-effect";
 export default function Home() {
   const words = [
     {
-      text: "Althea",
+      text: "Allanah",
     },
     {
-      text: "Gaylle,",
+      text: "Ranuco,",
     },
     {
       text: "I",
