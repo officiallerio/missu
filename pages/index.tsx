@@ -12,7 +12,7 @@ export default function Home() {
       text: "I",
     },
     {
-      text: "miss",
+      text: "hate",
     },
     {
       text: "you.",
