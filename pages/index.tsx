@@ -3,21 +3,21 @@ import { TypewriterEffect } from "@/components/ui/typewriter-effect";
 export default function Home() {
   const words = [
     {
-      text: "asdasd",
+      text: "Allanah",
     },
     {
-      text: "asdasd,",
+      text: "Ranuco,",
     },
     {
       text: "I",
     },
     {
-      text: "asdsad",
+      text: "miss",
     },
     {
       text: "you.",
     },
-    { text: "asdasd" },
+    { text: "❤️" },
   ];
 
   return (
